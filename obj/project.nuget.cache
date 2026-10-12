@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "1hFDSxPiv6c=",
+  "success": true,
+  "projectFilePath": "D:\\COURS\\GESTION DES PROJETS\\GRP 5 DETECTION D'ACCIDENT PAR IA\\SAFE ROAD\\SAFE_ROAD_DESKTOP\\SAFE_ROAD_DESKTOP\\SAFE_ROAD_DESKTOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.3\\microsoft.extensions.dependencyinjection.10.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.3\\microsoft.extensions.dependencyinjection.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.logging\\10.0.3\\microsoft.extensions.logging.10.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.3\\microsoft.extensions.logging.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.options\\10.0.3\\microsoft.extensions.options.10.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.3\\microsoft.extensions.primitives.10.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\mpv\\0.28.2\\mpv.0.28.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\mpv.net\\1.1.1\\mpv.net.1.1.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\socketioclient\\4.0.3\\socketioclient.4.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\socketioclient.common\\4.0.0\\socketioclient.common.4.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\socketioclient.newtonsoft.json\\3.0.7\\socketioclient.newtonsoft.json.3.0.7.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\socketioclient.serializer\\4.0.0.1\\socketioclient.serializer.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\videolan.libvlc.windows\\3.0.23.1\\videolan.libvlc.windows.3.0.23.1.nupkg.sha512"
+  ],
+  "logs": []
+}
