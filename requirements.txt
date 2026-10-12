@@ -1,0 +1,11 @@
+flask
+flask-cors
+flask-socketio
+opencv-python
+tensorflow
+keras
+numpy
+africastalking
+paho-mqtt==1.6.1
+requests
+werkzeug
